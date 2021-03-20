@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dawid!
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning React.js.
+- 📫 Currently gaining knowledge on different things so I could get my first job as a programmer.
